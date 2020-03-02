@@ -20,4 +20,3 @@ components:
     env:
     - name: PALLADIOPATH
       value: $(CHE_PROJECTS_ROOT)
-© 2020 GitHub, Inc.
